@@ -1,0 +1,23 @@
+Get
+
+Show + id
+
+Delete + id
+
+Add 
+
+Edit + id
+
+#00b4cc
+----------------------------------------------------
+MainPage.xaml → UI (XAML)
+
+MainPage.xaml.cs → code-behind (C# logic)
+
+App.xaml → global styles/resources
+
+AppShell.xaml → navigation between pages
+--------------------------------------------------
+Add -> class -> .NET MAUI ContentPage (XAML)
+
+Create a page <nameOfPage>.xaml
